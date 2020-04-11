@@ -2,7 +2,7 @@
 
 You can just use https://oshop-c55c2.firebaseapp.com/ to visit the Page
 
-I set myself to adminstrator level, only I can manage the product mage.
+I set myself to adminstrator so I am the only that can manage the products such as putting new items to the shop.
 Regular users can add items to their carts and check out after filling shipping information.
 
 ## Development server
