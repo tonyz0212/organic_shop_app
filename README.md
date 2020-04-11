@@ -1,6 +1,9 @@
-# OShop - Organic Shopping App
+# Zhu's Shop - Organic Shopping App
+
+You can just use https://oshop-c55c2.firebaseapp.com/ to visit the Page
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+
 
 ## Development server
 
