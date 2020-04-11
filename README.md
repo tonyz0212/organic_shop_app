@@ -2,8 +2,8 @@
 
 You can just use https://oshop-c55c2.firebaseapp.com/ to visit the Page
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
-
+I set myself to adminstrator level, only I can manage the product mage.
+Regular users can add items to their carts and check out after filling shipping information.
 
 ## Development server
 
